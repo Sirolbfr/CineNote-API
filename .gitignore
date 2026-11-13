@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#custom
+BRIEF_CINENOTE.md
+back/raw_data
